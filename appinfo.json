@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ilyattr@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Alarmebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Alarmebble",
+    "uuid": "38a013ad-bfe8-4d00-84a0-80b926e4c360",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
