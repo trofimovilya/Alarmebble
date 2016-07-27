@@ -1,0 +1,63 @@
+{
+    "author": "Ilya Trofimov",
+    "dependencies": {},
+    "keywords": [],
+    "name": "alarmebble",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Alarmebble",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/icon.png",
+                    "menuIcon": true,
+                    "name": "ICON",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/ok.png",
+                    "name": "OK",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/ok_bw.png",
+                    "name": "OK",
+                    "targetPlatforms": [
+                        "aplite"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/cross.png",
+                    "name": "CROSS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "e44a8ca9-2d35-4d55-b9f2-cafd12788dbf",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

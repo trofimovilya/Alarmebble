@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Alarmebble</string>
+    <string name="key_activity" translatable="false">shared_preferences_key_for_alarm_app_activity_name</string>
+    <string name="key_process" translatable="false">shared_preferences_key_for_alarm_app_process_name</string>
+
+    <string name="hide_app_icon">Hide app icon</string>
+    <string name="caution">Caution</string>
+    <string name="caution_text">"If you hide Alarmebble app icon from launcher, you will not be able to open this configuration window in order to choose appropriate alarm app until you reinstall Alarmebble.\nAre you sure want to continue?"</string>
+    <string name="text_placeholder">There are no supported alarm apps\ninstalled on your device</string>
+    <string name="app_icon">Application icon</string>
+</resources>
