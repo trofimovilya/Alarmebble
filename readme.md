@@ -5,7 +5,7 @@
 Do you make it a rule to keep a phone away from bed before sleep? 
 Are you already in bed and too tired to get up, find the phone and set alarm? 
 This app is made right for such annoying cases. 
-It finally allows to set alarm on your Android phone right from your Pebble Watch no matter what alarm app you use.
+With Alarmebble you finally can set alarm on your Android phone right from Pebble Watch no matter what alarm app you use.
 
 The app is written in **Kotlin** (Android part) and pure **C** (Pebble Watch part)
 #### Requirements
